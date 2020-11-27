@@ -23,4 +23,11 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫](https://github.com/wdaweb/node_linebot-ykyk6)
+
+
+## 好友ID：@944bazjw
+## 連接資料來源：https://www.lev.org.tw/subsidy/station.aspx
+## 使用說明：輸入欲查詢位置的縣市名+空格+區域名，即會回傳所在地附近的電動機車充電站店名+地址+Google Map
+
+
