@@ -23,7 +23,7 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/wdaweb/node_linebot-ykyk6)
+- [儲存庫](https://github.com/ykyk6/1020)
 
 
 
